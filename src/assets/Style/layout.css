@@ -1,0 +1,17 @@
+.conteiner-body{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    margin-left: 32px;
+    margin-right: 32px;
+    gap: 32px;
+}
+
+.login-divs{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 1570px;
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+

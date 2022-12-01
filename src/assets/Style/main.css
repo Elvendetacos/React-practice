@@ -1,0 +1,17 @@
+*{
+    font-family: 'holaxd';
+}
+
+body{
+    background-image: url('../Img/NEgrito.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+}
+
+
+@font-face {
+    font-family: holaxd;
+    src: url('../Font/AnekDevanagari-Regular.ttf');
+}
